@@ -1,0 +1,12 @@
+00_*.ogg
+[0-9].txt
+zz_*.ogg
+_git_add.txt
+set.env.01.txt
+yy_*.txt
+skip/
+Loop.log.txt
+New_add_gen1.txt
+Start_stop_log.txt
+nohup.out
+pid_now_yt.txt
